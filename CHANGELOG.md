@@ -1,4 +1,7 @@
 # UNRELEASED
+    - Guidance
+      - don't suppress name announcements via sliproad handler
+      - allow a single hop intersection in sliproad handler
 
 # 5.12.0
     - Guidance
