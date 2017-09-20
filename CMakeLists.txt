@@ -1,5 +1,4 @@
-cmake_minimum_required(VERSION 2.8.11)
-# we depend on 2.8.11 introducing target_include_directories
+cmake_minimum_required(VERSION 3)
 
 if(CMAKE_CURRENT_SOURCE_DIR STREQUAL CMAKE_CURRENT_BINARY_DIR AND NOT MSVC_IDE)
   message(FATAL_ERROR "In-source builds are not allowed.
